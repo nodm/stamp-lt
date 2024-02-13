@@ -1,0 +1,8 @@
+{
+  "name": "stamp-lt",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/stamp-lt",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
